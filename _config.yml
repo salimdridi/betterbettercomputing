@@ -31,3 +31,5 @@ defaults:
       values:
         layout: "frontpage"
         show-archived: false
+
+theme: jekyll-theme-minimal
