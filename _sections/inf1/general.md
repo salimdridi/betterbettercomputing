@@ -2,7 +2,7 @@
 year: 1
 title: Introduction to Computer Systems
 pinned: true
-
+---
 
 - [Lecture 1](http://www.laundryview.com/lvs.php?s=264)
 > The main components of a computer, Introduction to Boolean Logic and Gates (building blocks), Number Bases (decimal, binary, octal, hexadecimal), Data Representation, Instruction Set Architecture, Introduction to assembly language, Memory & Cache, Introduction to computer communications, Internet & cloud computing
