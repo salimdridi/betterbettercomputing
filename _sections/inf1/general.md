@@ -1,17 +1,32 @@
 ---
 year: 1
-title: General
+title: Introduction to Computer Systems
 pinned: true
-links:
-  - name: handbook
-    url: http://web.inf.ed.ac.uk/infweb/student-services/ito/students/year1
----
-> _don't stress yourself out too much, first year doesn't count towards your degree_
 
-- [LaundryView](http://www.laundryview.com/lvs.php?s=264)
-- [Common Outside Course Options for Informatics Students](http://homepages.inf.ed.ac.uk/imurray2/pt/outside_courses.html)
-- [Year 1 Google Drive](/drive?next=0B4SUSkTXjliXdkQxNGRYN0hfSGs)
-- mailing list archives - [ug1-students](https://lists.inf.ed.ac.uk/mailman/private/ug1-students/)
-- if you have a learning disability go to the [disability service](http://www.ed.ac.uk/student-disability-service/about)! make sure you go there long before the exams, it only takes few hours and can help you quite a bit.
-- [Programming Club](http://progclub.inf.ed.ac.uk/)
-- InfBase: a drop in helpdesk for you to get additional tutoring and support with your courses. See the [schedule](https://informaticsstudentsupport.wordpress.com/schedule-at-a-glance/) here - there's no need to sign up, just drop in
+
+- [Lecture 1](http://www.laundryview.com/lvs.php?s=264)
+> The main components of a computer, Introduction to Boolean Logic and Gates (building blocks), Number Bases (decimal, binary, octal, hexadecimal), Data Representation, Instruction Set Architecture, Introduction to assembly language, Memory & Cache, Introduction to computer communications, Internet & cloud computing
+
+- [Lecture 2](http://www.laundryview.com/lvs.php?s=264)
+> Historical Development (very brief), Intro to Boolean Logic and expressions, Boolean operators (AND, OR and NOT) and their truth tables, Logic gates (AND, OR and NOT), Computer Circuits & Simulator, Circuit construction algorithms
+
+- [Lecture 3](http://www.laundryview.com/lvs.php?s=264)
+> Data Representation (Numeric Information), Binary Numbers, Binary Numbering System, Binary Arithmetic, Hexadecimal Numbers, Hexadecimal-Binary, Hexadecimal Arithmetic, Integer Representations, Booth’s Algorithm for Binary Multiplications
+
+- [Lecture 4](http://www.laundryview.com/lvs.php?s=264)
+> Recap on Integer Representation, Floating-Point Representation(e.g. 17.4), Textual Information, Sound and Images, Error Correction Codes (Hamming Codes)
+
+- [Lecture 5](http://www.laundryview.com/lvs.php?s=264)
+> Components and functions of the CPU, Registers in the CPU, Computer instruction cycle, Computer Instructions, The Fetch/Execute Cycle, Computer instruction set, Format of Instructions, Addressing Modes
+
+- [Lecture 6](http://www.laundryview.com/lvs.php?s=264)
+> The main components of a computer, Introduction to Boolean Logic and Gates (building blocks), Number Bases (decimal, binary, octal, hexadecimal), Data Representation, Instruction Set Architecture, Introduction to assembly language, Memory & Cache, Introduction to computer communications, Internet & cloud computing
+
+- [Lecture 7](http://www.laundryview.com/lvs.php?s=264)
+> The main components of a computer, Introduction to Boolean Logic and Gates (building blocks), Number Bases (decimal, binary, octal, hexadecimal), Data Representation, Instruction Set Architecture, Introduction to assembly language, Memory & Cache, Introduction to computer communications, Internet & cloud computing
+
+- [Lecture 8](http://www.laundryview.com/lvs.php?s=264)
+> The main components of a computer, Introduction to Boolean Logic and Gates (building blocks), Number Bases (decimal, binary, octal, hexadecimal), Data Representation, Instruction Set Architecture, Introduction to assembly language, Memory & Cache, Introduction to computer communications, Internet & cloud computing
+
+- [Lecture 9](http://www.laundryview.com/lvs.php?s=264)
+> The main components of a computer, Introduction to Boolean Logic and Gates (building blocks), Number Bases (decimal, binary, octal, hexadecimal), Data Representation, Instruction Set Architecture, Introduction to assembly language, Memory & Cache, Introduction to computer communications, Internet & cloud computing
