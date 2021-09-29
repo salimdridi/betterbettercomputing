@@ -4,7 +4,7 @@ title: Introduction to Computer Systems
 pinned: true
 ---
 - [Module Specification](https://drive.google.com/file/d/1Nltmtwdgucc5X1EFT9WJ3cSTzwxtx43F/view?usp=sharing)
-- 
+
 - [Lecture 1](https://drive.google.com/file/d/1CCQzQUoGnI-YCbKmExMnNo-1uYJa1bpn/view?usp=sharing)
 > **Topics Covered**: The main components of a computer, Introduction to Boolean Logic and Gates (building blocks), Number Bases (decimal, binary, octal, hexadecimal), Data Representation, Instruction Set Architecture, Introduction to assembly language, Memory & Cache, Introduction to computer communications, Internet & cloud computing
 
