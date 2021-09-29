@@ -3,9 +3,9 @@ description: Welcome to Better Informatics. The student run website for students
 sass:
    sourcemap: true
 
-url: "https://salimdridi.github.io" # update previous line
-domain: "salimdridi.github.io/betterbettercomputing" # update next line
-baseurl: "/betterbettercomputing" # does not include hostname
+url: "https://bettercomputing.info" # update previous line
+domain: "bettercomputing.info" # update next line
+baseurl: "/" # does not include hostname
 
 collections:
     sections:
