@@ -1,29 +1,33 @@
 ---
-title: Cognitive Science
 year: 1
-course-acronym: inf1-cg
+title: Problem Solving and Programming 2
+pinned: true
 ---
+- [Module Specification](https://drive.google.com/file/d/1Nltmtwdgucc5X1EFT9WJ3cSTzwxtx43F/view?usp=sharing)
 
-- [Book about neural networks](http://neuralnetworksanddeeplearning.com/chap1.html) - recommended by the lecturer
-- [3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - really clear videos explaining neural networks and backprop
-- [Visualising Clustering](https://www.youtube.com/watch?v=wvsE8jm1GzE) - video from Google
-- [Deduction vs Induction](https://www.youtube.com/watch?v=iRcNQkWNWNk)
-- [Word learning models](/static/year1/Word Learning Models.pdf) - concept map with key ideas
-- [Amazing flash cards](https://quizlet.com/OriginalCal/folders/cognitive-science/sets) - key definitions
-- [Full course notes and posters - 2018](https://betterinformatics.com/drive?next=1Tb7WG3bdE5vop2ZR2nGlrkUXxu-9y2zj)
+- [Lecture 1](https://drive.google.com/file/d/1CCQzQUoGnI-YCbKmExMnNo-1uYJa1bpn/view?usp=sharing)
+> **Topics Covered**: The main components of a computer, Introduction to Boolean Logic and Gates (building blocks), Number Bases (decimal, binary, octal, hexadecimal), Data Representation, Instruction Set Architecture, Introduction to assembly language, Memory & Cache, Introduction to computer communications, Internet & cloud computing
 
+- [Lecture 2](https://drive.google.com/file/d/1D4BQpCcake1s1UQkBVkyO5ueGppDQWRk/view?usp=sharing)
+> **Topics Covered**: Historical Development (very brief), Intro to Boolean Logic and expressions, Boolean operators (AND, OR and NOT) and their truth tables, Logic gates (AND, OR and NOT), Computer Circuits & Simulator, Circuit construction algorithms
 
+- [Lecture 3](https://drive.google.com/file/d/12DUgO1y3rRxzEUyB1HonRV21mEY8DGKE/view?usp=sharing)
+> **Topics Covered**: Data Representation (Numeric Information), Binary Numbers, Binary Numbering System, Binary Arithmetic, Hexadecimal Numbers, Hexadecimal-Binary, Hexadecimal Arithmetic, Integer Representations, Booth’s Algorithm for Binary Multiplications
 
-**Priority reading list**
+- [Lecture 4](https://drive.google.com/file/d/1viy3YMinTLiTxqIhaTgSNy67_Nz3mXm0/view?usp=sharing)
+> **Topics Covered**: Recap on Integer Representation, Floating-Point Representation(e.g. 17.4), Textual Information, Sound and Images, Error Correction Codes (Hamming Codes)
 
-All of the readings are examinable, but if you want to prioritise, here is the recommended order:
+- [Lecture 5](https://drive.google.com/file/d/1U73dIx2n538tZaNDpBv_mmPrL2LwLHts/view?usp=sharing)
+> **Topics Covered**: Components and functions of the CPU, Registers in the CPU, Computer instruction cycle, Computer Instructions, The Fetch/Execute Cycle, Computer instruction set, Format of Instructions, Addressing Modes
 
-* Chapters 1, 2, 3, 4 and 7 of Pinker's "Words and Rules", minus places where there's no relevance to lecture content
-* Chapter 4 of Harley's "Psychology of Language"
-* Any academic paper covering something you're not sure you fully understand. For example, if you're not 100% clear on perceptrons, have a look at the Gurney reading
+- [Lecture 6](https://drive.google.com/file/d/10roALv4lOrkvb1LUkktK6v-YBDqVN9E7/view?usp=sharing)
+> **Topics Covered**: Status registers, Assembly Language using Little Man Computer (LMC), Examples
 
+- [Lecture 7](https://drive.google.com/file/d/1DXNKKsOH000I-uE7g6NLH67o_k1XTzwO/view?usp=sharing)
+> **Topics Covered**: More on the Von Neumann architecture, Random Access Memory, basic memory operations: fetch and store, Dynamic and Static Memory, Memory registers, Cache memory
 
+- [Lecture 8](https://docs.google.com/presentation/d/1G-fefbdsAYj7JSqyeQWT3vHyXUuCXkP2/edit?usp=sharing&ouid=101382768549110578022&rtpof=true&sd=true)
+> **Topics Covered**: Computer Communications
 
-
-
- 
+- [Lecture 9](https://drive.google.com/file/d/1QD-hi1Hprw4clX1t-CSzq0DTIfo7Ewa5/view?usp=sharing)
+> **Topics Covered**: A Bit of history, How the Internet Works?, Internet addresses, Domain Name System, Protocols: IP, TCP, FTP, HTTP, etc
