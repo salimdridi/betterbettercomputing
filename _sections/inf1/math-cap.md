@@ -3,31 +3,32 @@ year: 1
 title: Problem Solving and Programming 1
 pinned: true
 ---
-- [Module Specification](https://drive.google.com/file/d/1Nltmtwdgucc5X1EFT9WJ3cSTzwxtx43F/view?usp=sharing)
 
-- [Lecture 1](https://drive.google.com/file/d/1CCQzQUoGnI-YCbKmExMnNo-1uYJa1bpn/view?usp=sharing)
-> **Topics Covered**: The main components of a computer, Introduction to Boolean Logic and Gates (building blocks), Number Bases (decimal, binary, octal, hexadecimal), Data Representation, Instruction Set Architecture, Introduction to assembly language, Memory & Cache, Introduction to computer communications, Internet & cloud computing
+- [Module Specification](https://drive.google.com/file/d/1dmnGizYQKrWENbchEVmFjRWjs61rVhcD/view?usp=sharing)
 
-- [Lecture 2](https://drive.google.com/file/d/1D4BQpCcake1s1UQkBVkyO5ueGppDQWRk/view?usp=sharing)
-> **Topics Covered**: Historical Development (very brief), Intro to Boolean Logic and expressions, Boolean operators (AND, OR and NOT) and their truth tables, Logic gates (AND, OR and NOT), Computer Circuits & Simulator, Circuit construction algorithms
+- [Lecture 1](https://docs.google.com/presentation/d/1YOYAdNygiSpqo9luQCQKPLP_ICmhFzJS/edit?usp=sharing&ouid=101382768549110578022&rtpof=true&sd=true)
+> **Topics Covered**: Module Introduction
 
-- [Lecture 3](https://drive.google.com/file/d/12DUgO1y3rRxzEUyB1HonRV21mEY8DGKE/view?usp=sharing)
-> **Topics Covered**: Data Representation (Numeric Information), Binary Numbers, Binary Numbering System, Binary Arithmetic, Hexadecimal Numbers, Hexadecimal-Binary, Hexadecimal Arithmetic, Integer Representations, Booth’s Algorithm for Binary Multiplications
+- [Lecture 2](https://docs.google.com/presentation/d/1srOyzPMg7KZztLndw39-_txG5XpS2Gt2/edit?usp=sharing&ouid=101382768549110578022&rtpof=true&sd=true)
+> **Topics Covered**: Data and Data Types, Operators, Functions and Expressions, Variables and Assignment Statement, Input and Output Routines, Problem Understanding and Decomposition, Solution Development and Description, Solution Implementation, Solution Evaluation and Program Testing, Program Documentation Issues
 
-- [Lecture 4](https://drive.google.com/file/d/1viy3YMinTLiTxqIhaTgSNy67_Nz3mXm0/view?usp=sharing)
-> **Topics Covered**: Recap on Integer Representation, Floating-Point Representation(e.g. 17.4), Textual Information, Sound and Images, Error Correction Codes (Hamming Codes)
+- [Lecture 3](https://docs.google.com/presentation/d/1FRmWpJJvR5e3iHTIMxTH-jzpTtWXpQL0/edit?usp=sharing&ouid=101382768549110578022&rtpof=true&sd=true)
+> **Topics Covered**: Program Basics, Data and data type, Operation, function and expression, Variable and assignment statement, I/O routines, Problem Solving Basics, Blackbox approach to specify the computational problem, Decomposing a complex problem to a set of simpler sub-problems, Developing alternative solutions, Selecting optimal solutions, Implementing solutions into programs, Evaluating programs and solutions
 
-- [Lecture 5](https://drive.google.com/file/d/1U73dIx2n538tZaNDpBv_mmPrL2LwLHts/view?usp=sharing)
-> **Topics Covered**: Components and functions of the CPU, Registers in the CPU, Computer instruction cycle, Computer Instructions, The Fetch/Execute Cycle, Computer instruction set, Format of Instructions, Addressing Modes
+- [Lecture 4](https://docs.google.com/presentation/d/1Pm8HxLWoTo7JV40e2CPQEr0rltZ-Zli8/edit?usp=sharing&ouid=101382768549110578022&rtpof=true&sd=true)
+> **Topics Covered**: Condition and Selective Control, Types of Selective Control, Multiple Selective Controls and Decision Logics, Developing Solutions with Selective Controls, Implementing Selective Solutions: C language Constructs for Selective Controls, Simplifying nested Selection Controls
 
-- [Lecture 6](https://drive.google.com/file/d/10roALv4lOrkvb1LUkktK6v-YBDqVN9E7/view?usp=sharing)
-> **Topics Covered**: Status registers, Assembly Language using Little Man Computer (LMC), Examples
+- [Lecture 5](https://docs.google.com/presentation/d/1ovVurHyBA4s-s3UhYseoBKynDkyGOzfk/edit?usp=sharing&ouid=101382768549110578022&rtpof=true&sd=true)
+> **Topics Covered**: Concept of Iterative Control, Types of Iterative Controls, Developing Solutions with Iterative Controls, Implementing Iterative Solutions: C language Constructs for Iterative Controls, Related Issues
 
-- [Lecture 7](https://drive.google.com/file/d/1DXNKKsOH000I-uE7g6NLH67o_k1XTzwO/view?usp=sharing)
-> **Topics Covered**: More on the Von Neumann architecture, Random Access Memory, basic memory operations: fetch and store, Dynamic and Static Memory, Memory registers, Cache memory
+- [Lecture 6](https://docs.google.com/presentation/d/1BiPV0g2uN_IFchImp1rD33ZHrppIIPjs/edit?usp=sharing&ouid=101382768549110578022&rtpof=true&sd=true)
+> **Topics Covered**: Why Nesting?, Types of Nesting, C language Constructs for Supporting Nested Controls, Global vs. Local Variables, Complex Computational Problems, Developing Solutions with Nested Controls, Implementing Solutions with Nested Controls, Related Issues
 
-- [Lecture 8](https://docs.google.com/presentation/d/1G-fefbdsAYj7JSqyeQWT3vHyXUuCXkP2/edit?usp=sharing&ouid=101382768549110578022&rtpof=true&sd=true)
-> **Topics Covered**: Computer Communications
+- [Lecture 7](https://docs.google.com/presentation/d/1T3ca4slLuIx3idCMZiCK7uf-BZEe2OsT/edit?usp=sharing&ouid=101382768549110578022&rtpof=true&sd=true)
+> **Topics Covered**: Program only with Control Structures, a Review, Designing Modular Solutions, Concept of Functions and Why Functions, Function Declaration, Definition and Activation in C, Function Parameters and Parameter Passing
 
-- [Lecture 9](https://drive.google.com/file/d/1QD-hi1Hprw4clX1t-CSzq0DTIfo7Ewa5/view?usp=sharing)
-> **Topics Covered**: A Bit of history, How the Internet Works?, Internet addresses, Domain Name System, Protocols: IP, TCP, FTP, HTTP, etc
+- [Lecture 8](https://docs.google.com/presentation/d/10qaI9ZYvKKKb5B3aWE2epZcWt0ez-N-R/edit?usp=sharing&ouid=101382768549110578022&rtpof=true&sd=true)
+> **Topics Covered**: What are Function Parameters?, Why we need them?, Parameter Types, Parameter Passing Methods
+> 
+- [Lecture 9](https://docs.google.com/presentation/d/16_GG_OF_I8rKz9ZKulKNuSJ3Q4g699JA/edit?usp=sharing&ouid=101382768549110578022&rtpof=true&sd=true)
+> **Topics Covered**: PSP Basics and Principles, PSP with Sequence Only, PSP with Selection Controls, PSP with Iteration Controls, PSP with Functions, a Matter of Organisation, Related Issues, What Am I Expected from the Module?, What Next?
