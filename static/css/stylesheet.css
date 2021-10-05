@@ -579,11 +579,11 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
     }
 
     #menu {
-        background-image: url("../img/grey-dark.png");
+        background-image: url("../img/grey-light.png");
     }
 
     #menu a {
-        background-image: url("../img/color-dark.png");
+        background-image: url("../img/color-light.png");
     }
 
     a:hover {
