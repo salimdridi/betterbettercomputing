@@ -28,4 +28,4 @@ pinned: true
 > **Topic Covered**: Transport Layer
 
 - [Lecture 8](https://docs.google.com/presentation/d/1QVfoyU1kybfmUPncDxTRSvUeSvNj4zc7/edit?usp=sharing&ouid=101382768549110578022&rtpof=true&sd=true)
-> **Topics Covered**: Application Layer
+> **Topic Covered**: Application Layer
