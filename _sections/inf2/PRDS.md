@@ -28,4 +28,4 @@ pinned: true
 > **Topic Covered**: Database Application Issues
  
 - [Lecture 9](https://docs.google.com/presentation/d/1CWOYm6JOlWQGJRUezAlkpR442CGkBa3E/edit?usp=sharing&ouid=101382768549110578022&rtpof=true&sd=true)
-> **Topic Covered**: Module SummaryFile
+> **Topic Covered**: Module Summary
