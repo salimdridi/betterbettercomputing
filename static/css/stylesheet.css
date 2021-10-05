@@ -571,11 +571,11 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
     }
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark)  {
 
     #title {
-        /* background: url("../img/betterinf-title-dark.png"); */
-        color: rgb(169, 169, 179);
+        /* background: url("../img/betterinf-title-light.png"); */
+        color: black;
     }
 
     #menu {
@@ -587,29 +587,27 @@ section:hover .link-icon:hover, section:hover .edit-pencil:hover {
     }
 
     a:hover {
-        color: #ffb300;
-        border-color: #ffb300;
+        color: #4e8eec
     }
 
     .btn {
-        border-color: rgb(169, 169, 179);
+        border-color: #ddd;
+        color: #777;
+    }
+
+    .btn:hover {
+        color: #104491;
+        border: 1px solid #104491
     }
 
     /* Mobile */
 
+    #menu-small a {
+        color: #777;
+    }
+
     #menu-small a:hover {
-        color: #ffb300;
-        border-color: #ffb300;
-    }
-
-    /* Dark mode extras */
-
-    html, html * {
-        background-color: rgb(34, 34, 34);
-        color: rgb(169, 169, 179);
-    }
-
-    #content a:link {
-        text-decoration: underline;
+        color: #104491;
+        border-color: #104491
     }
 }
